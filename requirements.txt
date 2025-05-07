@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+flet
+mysql-connector-python
+plotly
+pyrebase4
+gTTS
+flet-audio
